@@ -21,7 +21,7 @@ ReCloset-AI uses machine learning to automatically classify the condition of sec
 
 ---
 
-## 🛠️ Installation
+## Installation
 
 ### environment
 
