@@ -5,11 +5,11 @@
 
 ---
 
-## 💡 Purpose
+## Purpose
 
 ReCloset-AI uses machine learning to automatically classify the condition of secondhand clothes based on uploaded images. Our AI model detects signs of wear, tear, stains, and other damage to sort clothes into one of the following seven categories:
 
-### 🧵 Classification Categories
+### Classification Categories
 
 1. Large tear  
 2. Wear / Small tear  
@@ -37,7 +37,7 @@ Then install dependencies:
 pip install -r requirements.txt
 ```
 
-## 🚀 Running the Server
+## Running the Server
 
 If you want to launch the AI classification server (FastAPI):
 
@@ -46,16 +46,16 @@ Make sure the FastAPI app is defined inside ai_server.py as app.
 ```bash
 uvicorn ai_server:app --reload
 ```
-## 🏋️‍♀️ Training the Model
+## Training the Model
 ```bash
 python train.py
 ```
-## 🧑‍💻 Authors
+## Authors
 
 Team ReCloset – AI Division
 Contact: github.com/wis-hyun
 
-## 📜 License
+## License
 This project is licensed under the MIT License.
 
 ---
